@@ -1,0 +1,18 @@
+{
+  "name": "jsdom-listener",
+  "version": "1.0.0",
+  "description": "JSDOM listener experiment",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jsdom"
+  ],
+  "author": "hgeorget@workit-software.com",
+  "license": "ISC",
+  "dependencies": {
+    "jsdom": "^16.4.0"
+  }
+}
