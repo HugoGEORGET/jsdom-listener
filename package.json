@@ -13,6 +13,6 @@
   "author": "hgeorget@workit-software.com",
   "license": "ISC",
   "dependencies": {
-    "jsdom": "^16.4.0"
+    "jsdom": "^16.5.0"
   }
 }
